@@ -1,0 +1,40 @@
+4
+3
+Grasa_azul 20000 2 3 9
+Grasa_amarilla 50000 3 9 9
+Grasa_negra 30000 2 0 4
+Grasa_blanca 30000 1 2 0
+Materia_prima_1 1000 300
+Materia_prima_2 2500 400
+Materia_prima_3 4000 520
+
+
+----------------------------------------------------------------
+5
+4
+Grasa_azul 20000 2 3 9 1
+Grasa_amarilla 50000 3 9 9 1
+Grasa_negra 30000 2 0 4 1
+Grasa_blanca 30000 1 2 0 4
+Grasa_verde 90000 1 2 2 6
+Materia_prima_1 1000 300
+Materia_prima_2 2500 400
+Materia_prima_3 4000 520
+Materia_prima_4 5000 230
+
+----------------------------------------------------------------
+6
+7
+Grasa_azul 20000 2 3 9
+Grasa_amarilla 50000 3 9 9
+Grasa_negra 30000 2 0 4
+Grasa_blanca 30000 1 2 0
+Grasa_verde 30000 1 2 0
+Grasa_violeta 30000 1 2 0
+Materia_prima_1 1000 300
+Materia_prima_2 2500 400
+Materia_prima_3 4000 120
+Materia_prima_4 1000 620
+Materia_prima_5 3000 520
+Materia_prima_6 1200 20
+Materia_prima_7 2030 420
